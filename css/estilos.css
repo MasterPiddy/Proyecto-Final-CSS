@@ -41,7 +41,7 @@ font-size: 1.25em;
 margin-top: 20%;
 }
 
-header a::selection   {
+#banner nav a.menu-opt{
   text-decoration: none;
 }
 
@@ -64,7 +64,6 @@ header a::selection   {
 }
 
 .menu-opt1 {
-  padding: 2%;
   order: 1;
 }
 
